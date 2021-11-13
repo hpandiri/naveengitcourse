@@ -7,8 +7,7 @@ public class App1 {
 
 	    System.out.println( "Hello World!" );
 	    System.out.println( "Hello World! honey" );
-	    System.out.println( "Hello World! amogha" );
-
+	   
 	}
 
 }
