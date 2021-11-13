@@ -1,5 +1,5 @@
 package WebDriverTest.WebDriverTest;
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 /**
  * Hello world!
